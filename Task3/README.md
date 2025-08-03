@@ -2,20 +2,20 @@
 
 | Технология  | Статус | Комментарий |
 | ----------- | ------ | ----------- |
-| Data stores |
+| **Data stores** |
 | Microsoft SQL Server 2008 | Hold | Постепенный уход от технологии |
 | MinIO | Adopt | Объектное хранилище для данных систем |
-| Data management |
+| **Data management** |
 | Airflow | Adopt | Управление потоками данных |
 | Apache Camel | Hold | Из-за сложностей интеграции планируется отказ в будущем |
 | Apache Kafka | Assess | Вероятный переход с Apache Camel |
 | Dremio | Adopt | Панель самообслуживания |
 | Nessie | Adopt | Транзакционный каталог |
 | PowerBI | Hold | Постепенный уход от технологии из-за возможных проблем с масштабированием под новые системы |
-| Languages |
+| **Languages** |
 | Python | Adopt | Современный язык для ML |
 | PowerBuilder | Hold | Устаревшая IDE для разработки |
-| Infrastructure |
+| **Infrastructure** |
 | Docker | Adopt |  |
 | Kubernetes | Adopt | Управление контейнеризованными приложениями |
 | Prometheus | Trial | Планируется внедрение в будущем для наблюдаемости |
